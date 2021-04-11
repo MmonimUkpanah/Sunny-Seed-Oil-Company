@@ -30,7 +30,7 @@
     </div>
     <div class="du"
     data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
       <div class="du1">
         <div class="du2">
           <img src="/img/refined-oil.svg" alt="">
@@ -51,7 +51,7 @@
       </div>
       <div class="du1"
       data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
         <div class="du2">
           <img src="/img/mayo.svg" alt="">
           <p>Mayonnaise</p>

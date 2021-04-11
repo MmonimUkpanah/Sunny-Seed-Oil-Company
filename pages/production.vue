@@ -51,14 +51,14 @@ The plant is fitted with highly effective equipment and all the technological pr
         </div>
         <div class="stage2"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <h3>INCOMING CONTROL</h3>
             <p>The laboratory selects seeds of the highest quality.</p>
             <hr width="1" size="500">
         </div>
         <div class="stage2"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <p class="number rounded-circle">2</p>
             <h3>SEED CLEANING</h3>
             <p>Elevator equipment allows us to separate seeds from various impurities. Fully clean seeds are stored and further processed.</p>
@@ -66,7 +66,7 @@ The plant is fitted with highly effective equipment and all the technological pr
         </div>
         <div class="stage2"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <p class="number rounded-circle">3</p>
             <h3>INCOMING CONTROL</h3>
             <p>The laboratory selects seeds of the highest quality.</p>
@@ -74,7 +74,7 @@ The plant is fitted with highly effective equipment and all the technological pr
         </div>
         <div class="stage2"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <p class="number rounded-circle">4</p>
             <h3>ROASTING PROCESS</h3>
             <p>The seeds are roasted at 100-110° С using customized roasting machines. Specific roasting technology allows the most effective squeezing of the pressed oil and obtaining sunflower oil cake of high quality.</p>
@@ -82,7 +82,7 @@ The plant is fitted with highly effective equipment and all the technological pr
         </div>
         <div class="stage2"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <p class="number rounded-circle">5</p>
             <h3>PRESSING</h3>
             <p>Virgin sunflower oil and sunflower oil cake, used for further extraction are produced using modern pressing machines.</p>
@@ -90,7 +90,7 @@ The plant is fitted with highly effective equipment and all the technological pr
         </div>
         <div class="stage2"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <p class="number rounded-circle">6</p>
             <h3>SUNFLOWER OIL CAKE EXTRACTION</h3>
             <p>Sunflower meal, which is one of the most valuable fodder components is produced at this stage.</p>
@@ -107,7 +107,7 @@ The plant is fitted with highly effective equipment and all the technological pr
         </div>
         <div class="qua2"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="150">
+        data-aos-delay="100">
             <div class="qua4">
                 <p><span class="qua3">RAW MATERIAL TESTING</span></p>
                 <p>We use sunflower seeds with organoleptic, physico-chemical and safety indices that meet DSTU 
