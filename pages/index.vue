@@ -36,24 +36,24 @@
       <div class="pro1">
         <div class="pro2"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <h2>THINGS ARE EASY WITH <span class="pro4">SUNNY</span> </h2>
         </div>
         <div class="pro3"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-             data-aos-delay="100" >
+              >
           <h2><span class="pro4">EASY</span>  TO COOPERATE WITH</h2> 
         </div>
       </div>
       <div class="pro1">
         <div class="pro2"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <h2> <span class="pro4">EASY</span> TO CREATE PREMIUM PRODUCTS</h2>
         </div>
         <div class="pro3"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-             data-aos-delay="100">
+        >
           <h2><span class="pro4">EASY</span >  TO BE SUCCESSFUL</h2> 
         </div>
       </div>
@@ -63,7 +63,7 @@
       </div>
       <div class="cele2"
       data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-             data-aos-delay="100">
+             >
         <p>Sunny is the leading brand of the Ukrainian sunflower seeds processing company 
           Sunny Seed Oil (a private joint-stock company)</p>
           <p>We produce</p>
@@ -81,7 +81,7 @@
     <div  class="bo">
       <div class="bo1"
       data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100"> 
+      > 
         <p>It is very easy to manufacture products with Sunny under a private label using 
           the company’s formulas or alter them according to the client’s needs. The packaging 
           with a client’s label could be used for the product.</p>
@@ -103,7 +103,7 @@
       <div class="duct2">
         <div class="duct3"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <div class="duct31">
             <img src="/img/15.svg" alt="">
           </div>
@@ -113,7 +113,7 @@
         </div>
         <div class="duct4"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <div class="duct41">
             <img src="/img/28.svg" alt="">
           </div>
@@ -126,7 +126,7 @@
         </div>
         <div class="duct3"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <div class="duct31">
             <img src="/img/60.svg" alt="">
           </div>
@@ -147,7 +147,7 @@
     <div class="du">
       <div class="du1"
       data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
         <div class="du2">
           <img src="/img/refined-oil.svg" alt="">
           <p>Refined Oil</p>
@@ -167,7 +167,7 @@
       </div>
       <div class="du1"
       data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
         <div class="du2">
           <img src="/img/mayo.svg" alt="">
           <p>Mayonnaise</p>

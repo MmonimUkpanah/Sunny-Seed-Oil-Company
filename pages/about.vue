@@ -38,24 +38,24 @@
       <div class="pro1">
         <div class="pro2"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <h2>HEAVY CROP OF  <span class="pro4">WORLD-FAMOUS</span> UKRAINIAN SUNFLOWERS </h2>
         </div>
         <div class="pro3"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <h2>HIGH <span class="pro4">QUALITY</span>  STANDARDS</h2> 
         </div>
       </div>
       <div class="pro1">
         <div class="pro2"
         data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <h2>MANUFACTURING ON <span class="pro4">MODERN</span> LINES</h2>
         </div>
         <div class="pro3"
         data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
           <h2>EVERYDAY<span class="pro4"> WORK</span >  THAT WE ENJOY</h2> 
         </div>
       </div>
@@ -65,7 +65,7 @@
       </div>
       <div class="cele2" 
       data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
         <p>Sunny is the leading brand of the Ukrainian company Sunny Seed Oil (a private joint-stock company). It is a major Ukrainian sunflower seeds
               processing company that has been producing a large range of products for over 
               30 years.</p>
@@ -82,12 +82,12 @@
     <div class="img">
       <div class="img1"
       data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+      >
         <img src="/img/boot.svg" alt="">
       </div>
       <div class="img2"
       data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
         <div class="img3">
           <img src="/img/borot.svg" alt="">
         </div>
@@ -97,7 +97,7 @@
       </div>
       <div class="img1"
       data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
         <img src="/img/borobot.svg" alt="">
       </div>
     </div>
@@ -122,7 +122,7 @@
     <div class="cele">
       <div class="cele2"
       data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
-        data-aos-delay="100">
+        >
         <h2> SUSTAINABLE DEVELOPMENT</h2>
         <p><span class="cele5">RESPONSIBILITY TOWARDS NATURAL RESOURCES OF UKRAINE </span> </p>
         <p>A complex approach to environmental protection is a very important part of the company's work. It involves the optimal usage of the resources and implementation of measures for the preservation of the environment.</p>
