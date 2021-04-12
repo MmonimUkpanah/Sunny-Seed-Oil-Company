@@ -50,14 +50,14 @@ The plant is fitted with highly effective equipment and all the technological pr
             <p class="number rounded-circle">1</p>
         </div>
         <div class="stage2"
-        data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+
         >
             <h3>INCOMING CONTROL</h3>
             <p>The laboratory selects seeds of the highest quality.</p>
             <hr width="1" size="500">
         </div>
         <div class="stage2"
-        data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+        
         >
             <p class="number rounded-circle">2</p>
             <h3>SEED CLEANING</h3>
@@ -65,7 +65,7 @@ The plant is fitted with highly effective equipment and all the technological pr
             <hr width="1" size="500">
         </div>
         <div class="stage2"
-        data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+
         >
             <p class="number rounded-circle">3</p>
             <h3>INCOMING CONTROL</h3>
@@ -73,7 +73,7 @@ The plant is fitted with highly effective equipment and all the technological pr
             <hr width="1" size="500">
         </div>
         <div class="stage2"
-        data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+        
         >
             <p class="number rounded-circle">4</p>
             <h3>ROASTING PROCESS</h3>
@@ -81,7 +81,7 @@ The plant is fitted with highly effective equipment and all the technological pr
             <hr width="1" size="500">
         </div>
         <div class="stage2"
-        data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+
         >
             <p class="number rounded-circle">5</p>
             <h3>PRESSING</h3>
@@ -89,7 +89,7 @@ The plant is fitted with highly effective equipment and all the technological pr
             <hr width="1" size="500">
         </div>
         <div class="stage2"
-        data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+        
     >
             <p class="number rounded-circle">6</p>
             <h3>SUNFLOWER OIL CAKE EXTRACTION</h3>
@@ -106,7 +106,7 @@ The plant is fitted with highly effective equipment and all the technological pr
 
         </div>
         <div class="qua2"
-        data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-quad"
+        
         >
             <div class="qua4">
                 <p><span class="qua3">RAW MATERIAL TESTING</span></p>
