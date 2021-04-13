@@ -105,16 +105,16 @@
       <h2>SUNNY VALUES</h2>
       <div class="ad1">
         <div class="ad2">
-          <img src="/img/cz1.jpg" alt="">
+          <img src="/img/pt.jpg" alt="">
           <p>We value a straightforward partnership since simple and clear cooperation mechanisms allow saving the most important business resource, time.</p>
         </div>
         <div class="ad2">
-          <img src="/img/cz2.jpg" alt="">
+          <img src="/img/oil.jpg" alt="">
           <p>We are open to partnership and provide an opportunity to create a private label using our own formulas and technological tasks.</p>
         </div>
         <div class="ad2">
-          <img src="/img/cz3.jpg" alt="">
-          <p>We are expending the horizons of our abilities by offering shipping to any country in the world.</p>
+          <img src="/img/tr.jpg" alt="">
+          <p>We are expanding the horizons of our abilities by offering shipping to any country in the world.</p>
         </div>
         
       </div>
@@ -350,6 +350,7 @@ padding-bottom: 2rem;
 }
 .ad2 img{
   width: 100%;
+  height: 20rem;
 }
 
 

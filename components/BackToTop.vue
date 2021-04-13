@@ -26,7 +26,7 @@ export default {
     cursor: pointer;
     opacity: 0.8;
     position: fixed;
-    bottom: 50px;
+    bottom: 300px;
     right: 28px;
     padding: 1rem;
     background-color: #ffbe3c;

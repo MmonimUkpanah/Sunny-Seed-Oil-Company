@@ -38,7 +38,7 @@
         </div>
         <div class="et2">
             <div class="et3">
-                <img src="/img/151.jpg" alt="">
+                <img src="/img/mi.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Pablo Yemets</span></p>
                     <p>Director</p>
@@ -46,14 +46,14 @@
                 
             </div>
             <div class="et3">
-                <img src="/img/overko.jpg" alt="">
+                <img src="/img/pe.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Alina Overko</span></p>
                     <p>Export Manager</p>
                 </div>
             </div>
             <div class="et3">
-                <img src="/img/rishkin.jpg" alt="">
+                <img src="/img/fo.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Anatolii Ryshkin</span></p>
                     <p>Export Manager</p>
@@ -62,14 +62,14 @@
         </div>
         <div class="et6">
             <div>
-                <img src="/img/kopteva.jpg" alt="">
+                <img src="/img/iv.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Nataliya Kopteva</span></p>
                     <p> Manager</p>
                 </div>
             </div>
             <div>
-                <img src="/img/an.jpg" alt="">
+                <img src="/img/lu.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Alexey Andriyash</span></p>
                     <p>Head of Retail Department</p>

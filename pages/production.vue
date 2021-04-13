@@ -281,7 +281,7 @@ The quality control stages include raw material, intermediate and finished produ
         font-size: 20px;
     }
     .pl2 {
-        background: url("/img/zavod.jpg") center center/cover;
+        background: url("/img/ph.jpe") center center/cover;
     }
     .pl3{
         text-align: center;
@@ -488,7 +488,7 @@ The quality control stages include raw material, intermediate and finished produ
         font-size: 20px;
     }
     .pl2 {
-        background: url("/img/zavod.jpg") center center/cover;
+        background: url("/img/ph.jpe") center center/cover;
         height: 50vh;
     }
     .pl3{

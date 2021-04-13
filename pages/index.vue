@@ -373,7 +373,7 @@ export default {
   }
   
   .cele1{
-    background: url("/img/001.jpg") center center/cover ;
+    background: url("/img/olia.jpg") center center/cover ;
   }
   .cele2{
     padding: 7rem 2rem;
@@ -749,7 +749,7 @@ padding-bottom: 2rem;
   }
   
   .cele1{
-    background: url("/img/001.jpg") center center/cover ;
+    background: url("/img/olia.jpg") center center/cover ;
     height: 50vh;
   }
   
