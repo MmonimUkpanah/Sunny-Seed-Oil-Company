@@ -38,7 +38,7 @@
         </div>
         <div class="et2">
             <div class="et3">
-                <img src="/img/mi.jpg" alt="">
+                <img src="/img/img3.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Pablo Yemets</span></p>
                     <p>Director</p>
@@ -46,36 +46,43 @@
                 
             </div>
             <div class="et3">
-                <img src="/img/pe.jpg" alt="">
+                <img src="/img/img1.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Alina Overko</span></p>
                     <p>Export Manager</p>
                 </div>
             </div>
             <div class="et3">
-                <img src="/img/fo.jpg" alt="">
+                <img src="/img/img2.jpg" alt="">
+                <div class="et5">
+                    <p><span class="et4">Anatolii Ryshkin</span></p>
+                    <p>Export Manager</p>
+                </div>
+            </div>
+            <div class="et3">
+                <img src="/img/img4.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Anatolii Ryshkin</span></p>
                     <p>Export Manager</p>
                 </div>
             </div>
         </div>
-        <div class="et6">
+        <!-- <div class="et6">
             <div>
-                <img src="/img/iv.jpg" alt="">
+                <img src="/img/img4.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Nataliya Kopteva</span></p>
                     <p> Manager</p>
                 </div>
             </div>
             <div>
-                <img src="/img/lu.jpg" alt="">
+                <img src="/img/img4.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Alexey Andriyash</span></p>
                     <p>Head of Retail Department</p>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <back-to-top />
     <footer-section/>
@@ -166,8 +173,8 @@
   }
   .et{
       margin-top: 5rem;
-      margin-left: 25%;
-      margin-right: 25%;
+      margin-left: 15%;
+      margin-right: 15%;
       text-align: center;
   }
   .et1 h2{
@@ -180,8 +187,8 @@
   .et2{
       margin-top: 3rem;
       display: grid;
-      grid-column-gap: 2rem;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-column-gap: 1rem;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   .et3 img{
       width: 100%;
@@ -200,11 +207,9 @@
   }
   .et6{
       margin-top: 1rem;
-      display: grid;
-      grid-column-gap: 2rem;
-      grid-template-columns: 1fr 1fr ;
-      margin-left: 3rem;
-      margin-right: 3rem;
+      text-align: center;
+      margin-left: 25%;
+      margin-right: 25%;
   }
   .et6 img{
       width: 100%;
