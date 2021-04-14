@@ -9,6 +9,7 @@
                 <nuxt-link class="link" to="team"><h2>OUR TEAM</h2></nuxt-link>
                 <nuxt-link class="link" to="production"><h2>PRODUCTION</h2></nuxt-link>
                 <nuxt-link class="link" to="products"><h2>PRODUCTS</h2></nuxt-link>
+                <nuxt-link class="link" to="partners"><h2>FOR PARTNERS AND INVESTORS</h2></nuxt-link>
                 </div>
                 
             </div>
