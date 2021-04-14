@@ -391,7 +391,7 @@
             to right,
             rgba(0, 4, 23, 0.58),
             rgba(0, 4, 23, 0.58)
-        ),url(/img/matt.jpg) center center/cover;
+        ),url(/img/hw.jpg) center center/cover;
     height: 100vh;
     
   }
