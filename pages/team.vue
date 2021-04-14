@@ -49,7 +49,7 @@
                 <img src="/img/img1.jpg" alt="">
                 <div class="et5">
                     <p><span class="et4">Alina Overko</span></p>
-                    <p>Export Manager</p>
+                    <p>Chief Technical Officer</p>
                 </div>
             </div>
             <div class="et3">
@@ -62,8 +62,8 @@
             <div class="et3">
                 <img src="/img/img4.jpg" alt="">
                 <div class="et5">
-                    <p><span class="et4">Anatolii Ryshkin</span></p>
-                    <p>Export Manager</p>
+                    <p><span class="et4">Alexey Andriyash</span></p>
+                    <p>Head of Retail Department</p>
                 </div>
             </div>
         </div>
