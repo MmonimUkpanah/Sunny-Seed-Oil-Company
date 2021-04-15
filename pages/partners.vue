@@ -5,11 +5,11 @@
                 <font-awesome-icon class="icon" :icon="['fas', 'sliders-h']" @click="showNav" />
                 <div class="nav2">
                 <nuxt-link class="link" to="/"><h2>HOME</h2></nuxt-link>
-                <nuxt-link class="link" to="about"><h2>ABOUT COMPANY</h2></nuxt-link>
-                <nuxt-link class="link" to="team"><h2>OUR TEAM</h2></nuxt-link>
-                <nuxt-link class="link" to="production"><h2>PRODUCTION</h2></nuxt-link>
                 <nuxt-link class="link" to="products"><h2>PRODUCTS</h2></nuxt-link>
+                <nuxt-link class="link" to="production"><h2>PRODUCTION</h2></nuxt-link>
                 <nuxt-link class="link" to="partners"><h2>FOR PARTNERS AND INVESTORS</h2></nuxt-link>
+                <nuxt-link class="link" to="team"><h2>OUR TEAM</h2></nuxt-link>
+                <nuxt-link class="link" to="about"><h2>ABOUT OUR COMPANY</h2></nuxt-link>
                 </div>
                 
             </div>
@@ -144,6 +144,17 @@
 
     
     <back-to-top />
+    <script>
+      var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+      (function(){
+      var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+      s1.async=true;
+      s1.src='https://embed.tawk.to/607873c3067c2605c0c2cc88/default';
+      s1.charset='UTF-8';
+      s1.setAttribute('crossorigin','*');
+      s0.parentNode.insertBefore(s1,s0);
+      })();
+</script>
     <footer-section/>
     </div>
 </template>
