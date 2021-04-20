@@ -209,9 +209,7 @@ The quality control stages include raw material, intermediate and finished produ
             </div>
         </div>
         <div class="cer4">
-            <div class="cer5">
-                <img src="/img/iso1.svg" alt="">
-            </div>
+            
             <div class="cer5">
                 <img src="/img/iso2.svg" alt="">
             </div>
@@ -609,9 +607,13 @@ padding-bottom: 2rem;
         margin-top: 2rem;
         display: grid;
         grid-column-gap: 2rem;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         margin-left: 20%;
         margin-right: 20%;
+        text-align: center;
+    }
+    .cer4 img{
+      width: 50%;
     }
 
 .part{
@@ -1005,6 +1007,9 @@ padding-bottom: 2rem;
   margin-top: 1rem;
   text-transform: uppercase;
 }
+.cer4 img{
+      width: 80%;
+    }
 
   }
 
